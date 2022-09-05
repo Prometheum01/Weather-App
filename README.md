@@ -6,7 +6,11 @@ An app for check weather forecasts.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Loading Page](https://github.com/Prometheum01/Weather-App/blob/main/weather_app/screenshots/loading_page.png)
+![Main Page](https://github.com/Prometheum01/Weather-App/blob/main/weather_app/screenshots/main_page.png)
+![Main Detail Page](https://github.com/Prometheum01/Weather-App/blob/main/weather_app/screenshots/main_page_detail.png)
+![Week Forecast Page](https://github.com/Prometheum01/Weather-App/blob/main/weather_app/screenshots/week_forecast_page.png)
+![No Internet Page](https://github.com/Prometheum01/Weather-App/blob/main/weather_app/screenshots/no_internet_page.png)
 
 
 ## Tech and Libs
